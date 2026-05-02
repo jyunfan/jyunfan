@@ -20,6 +20,7 @@ AIoT · Voice interfaces · Edge LLM · Agentic coding · LLM tooling for softwa
 
 ## Contact
 
+- Website: [tsai.fans](https://tsai.fans/)
 - Email: [jyunfan@gmail.com](mailto:jyunfan@gmail.com)
 - LinkedIn: [linkedin.com/in/jyun-fan-tsai](https://www.linkedin.com/in/jyun-fan-tsai/)
 
